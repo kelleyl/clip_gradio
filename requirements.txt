@@ -1,0 +1,6 @@
+gradio
+plotly==4.14.3
+opencv-python
+git+ssh://git@github.com/openai/CLIP.git
+torch
+plotly
